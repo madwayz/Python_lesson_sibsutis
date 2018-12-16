@@ -1,0 +1,17 @@
+В целом чтобы узнать о том как работает git, какие у него есть возможности стоит прочитать книгу
+https://git-scm.com/book/ru/v2/
+
+Первым вашим заданием будет:
+1. Зарегистрировать и зайти на github
+2. Сделать fork репозитория https://github.com/LifeLaboratory/Python_lesson_sibsutis
+3. Склонировать вашу копию репозитория себе на машину
+4. Выполнить задание по питону и залить его в свой репозиторий 
+5. Отправить merge request на основной репозиторий
+
+Материалы:
+Что такое fork со скринами github http://gearmobile.github.io/git/fork-github/ 
+Запись изменений в репозиторий https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9
+Создание запроса на слияние https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+И то и другое в книге https://git-scm.com/book/ru/v2/GitHub-%D0%92%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B
+Если что-то не понятно в данных материалах https://www.google.com/
+Если вам не помогла последняя ссылка, то задавайте ваш вопрос в конфе телеграмма
