@@ -1,8 +1,8 @@
 def get_fib_num(a):
-    if a < 2:
+    if -2 < a < 2:
         return a
 
-    n = 2  #  Счётчик
+    n = 2
     previous_num = 1
     current_num = 1
     while current_num < a:
