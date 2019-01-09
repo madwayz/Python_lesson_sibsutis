@@ -4,8 +4,10 @@ if __name__ == '__main__':
     lat_eng = defaultdict(list)
     counter = int(input('Введите кол-во английских слов: '))
     print(
-        'Заполните словарь.\n'
-        'Пример: apple - malum, pomum, popula\n'
+        """
+        Заполните словарь.\n
+        Пример: apple - malum, pomum, popula\n
+        """
     )
 
     for _ in range(counter):
