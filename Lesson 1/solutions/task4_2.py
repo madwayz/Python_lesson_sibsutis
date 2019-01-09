@@ -8,7 +8,7 @@ if __name__ == '__main__':
         Заполните словарь.\n
         Пример: apple - malum, pomum, popula\n
         """
-    )
+        )
 
     for _ in range(counter):
         eng_word, lat_translate_from_eng = input('Осталось ' + str(counter) + ' | Ответ: ').split(' - ')

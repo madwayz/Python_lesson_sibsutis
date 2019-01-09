@@ -9,4 +9,5 @@ if __name__ == "__main__":
     else:
         print('n должен быть не менее 1')
         sys.exit(0)
+
     print('n! = ' + str(answer))
