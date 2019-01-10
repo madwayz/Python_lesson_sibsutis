@@ -1,13 +1,12 @@
-import sys
-
-if __name__ == "__main__":
+def factorial(n):
     answer = 1
-    n = int(input('Введите n!\nОтвет: '))
     if n >= 1:
         for x in range(2, n+1):
             answer *= x
+        print('n! = ', str(answer))
     else:
         print('n должен быть не менее 1')
-        sys.exit(0)
 
-    print('n! = ' + str(answer))
+
+if __name__ == "__main__":
+    factorial(int(input('Введите n!\nОтвет: ')))
